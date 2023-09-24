@@ -9,3 +9,5 @@ The generator starts with random noise pixel values and works its way up to repl
 
 I trained them for 100 epochs which is overkill, and saved an image for every epoch, resulting in a beautiful gif which is ruined by matplotlibs weird colors. I tried other colormaps but they were somehow worse.
 Despite everything looking radioactive, at least you can make out the shapes.
+
+![](/cifar10/dcgan.gif)
