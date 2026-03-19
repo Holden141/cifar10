@@ -11,4 +11,3 @@ I trained them for 100 epochs which is overkill, and saved an image for every ep
 Despite everything looking radioactive, at least you can make out the shapes.
 
 ![gif](dcgan.gif)
-![dcgan](https://github.com/Holden141/cifar10/assets/28198518/25795af7-dbd0-4c49-9315-d6cbc2100fa3)
